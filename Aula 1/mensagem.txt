@@ -1,0 +1,2 @@
+meu primeiro comando na nuvem
+hello world!
