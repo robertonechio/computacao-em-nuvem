@@ -1,0 +1,7 @@
+# Estudo de Caso 3 - General Electric (Estados Unidos)
+
+O modelo de nuvem escolhido foi o modelo **hibrida**, pois permite alternar entre flexibilidade, escabilidade e segurança, oferece redundância e continuidade de serviço, mesmo em caso de falhas em uma das nuvens. Oferece alto desempenho na nuvem privada, e na publica uma maior distribuição global dos conteúdos.
+
+## Plataforma escolhida
+
+A plataforma que escolhi foi o Azure, pois oferece segurança de dados críticos e flexibilidade, controle sobre os dados.
