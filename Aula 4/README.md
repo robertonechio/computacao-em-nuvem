@@ -13,7 +13,7 @@ Utilizar uma arquitetura de **nuvem híbrida**, permite manter dados sensíveis 
 | **Microsoft Azure**             | Nuvem da Microsoft, forte integração com sistemas Windows | Boa opção para empresas com Active Directory, Office 365; oferece Azure Arc para ambientes híbridos      |
 | **Google Cloud Platform (GCP)** | Nuvem do Google com foco em dados e IA                    | Fortes serviços de Big Data, IA, e containers (GKE); suporte a nuvem híbrida via Anthos                  |
 
-### Nuvem Pública (Escalabilidade, elasticidade e serviços gerenciados)
+### Nuvem Privada (Controle, segurança, compliance)
 | Provedor/Plataforma                 | Descrição                                                 | Destaques                                                                                  |
 | ----------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **OpenStack**                       | Plataforma open-source para construção de nuvens privadas | Muito customizável; usado por empresas que precisam de controle total sobre infraestrutura |
